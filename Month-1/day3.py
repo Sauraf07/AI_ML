@@ -20,7 +20,14 @@ print(f"My name is {name}")
 # Print using f-string
 # Ask favorite color and print
 # Take number input:
-
+# Add 2 numbers from input
+# Multiply 2 numbers
+# Create a mini intro program
+# Ask user:
+# name
+# age
+# hobby
+# → print full sentence
 # ==================================================
 name = input("Enter your good name:")
 print(name)
